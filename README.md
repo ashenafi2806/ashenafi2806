@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Ashenafi Bizuwork 
 
-<!--
-**ashenafi2806/ashenafi2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 About Me
 
-Here are some ideas to get you started:
+● 🎓 Final-year Computer Science student at Addis Ababa University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+● 💻 Full-stack engineer specializing in modern web technologies
+
+● 📚 Expanding my expertise in Git, Linux, Python, and TypeScript
+
+● 🎯 Committed to developing software that solves real-world problems
+
+🔨 Tech Stack
+● Frontend: HTML, CSS, JavaScript, React.js, Redux, Tailwind, Next.js
+● Backend:  Node.js, Express.js, Nest js
+● Database: MySQL, PostgreSQL, 
+● Tools & Workflow: Git, GitHub, Agile (Scrum & Sprints), VS Code, Linux(Ubuntu)
+
+📌 Current Focus
+● 🏗 Building real-world projects to sharpen my skills
+
+💬 Let's Connect!
+● 💌 [Email] (ashenafibizukork@gmail.com)
+● 📲 [Telegram] (https://t.me/@Victor2806)
+
+
